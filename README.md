@@ -14,3 +14,4 @@ List of repositories containing WinForms examples written in C#.
 10. [WinForms ToolBar](https://github.com/NikolaGrujic91/WinForms-ToolBar) - implementation of ToolBar control modes.
 11. [WinForms User Control Progress Bar](https://github.com/NikolaGrujic91/WinForms-User-Control-Progress-Bar) - implementation of ProgressBar as a UserControl.
 12. [WinForms Inherited Control Directory Tree](https://github.com/NikolaGrujic91/WinForms-Inherited-Control-Directory-Tree) - implementation of TreeView for displaying directories as inherited control.
+13. [WinForms ListBox Object Binding](https://github.com/NikolaGrujic91/WinForms-List-Box-Object-Binding) - implementation of ListBox object binding.
