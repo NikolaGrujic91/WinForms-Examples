@@ -17,3 +17,4 @@ List of repositories containing WinForms examples written in C#.
 13. [WinForms ListBox Object Binding](https://github.com/NikolaGrujic91/WinForms-List-Box-Object-Binding) - implementation of ListBox object binding.
 14. [WinForms Docking Windows](https://github.com/NikolaGrujic91/WinForms-Docking-Windows) - implementation of docking a Form inside of the other Form. 
 15. [WinForms MVC](https://github.com/NikolaGrujic91/WinForms-MVC) - implementation of MVC pattern for WinForms apllication.
+16. [WinForms ComboBox Auto Fit Content](https://github.com/NikolaGrujic91/WinForms-ComboBox-Auto-Fit-Content) - implementation of ComboBox dropdown auto fitting content.
